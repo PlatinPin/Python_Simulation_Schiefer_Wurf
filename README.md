@@ -6,4 +6,4 @@ Diese Simulation zielt darauf ab, die Flugbahn eines Balls unter Berücksichtigu
 
 Innerhalb des Programmcodes können Parameter wie der Abwurfwinkel, die Anfangsgeschwindigkeit, die Masse des Objekts und die Abwurfhöhe variabel eingestellt werden. Das grafische Interface ermöglicht zudem das Pausieren der Simulation.
 
-[[!Wurf_Interface.PNG]]
+![Wurf Interface](Wurf_Interface.PNG)
